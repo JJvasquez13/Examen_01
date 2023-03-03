@@ -12,5 +12,5 @@ while volver == True:
                 print(j, end=" ")
         volver = False
     else:
-        "Digito un numero incorrecto o es un numero que no se encuentra en el rango acordado."
         volver = True
+        print("Digito un numero que no se encuentra dentro de los limites establecidos.")
